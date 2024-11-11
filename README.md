@@ -31,9 +31,10 @@ This is a simple movie app that fetches data from the [TMDB API](https://www.the
 ## Video
 
 - **Android**: [Watch Video](https://github.com/kennyowj961127/RNMyMovieDemo/blob/main/demo/RN_ANDROID.mp4)
-<video src="/demo/RN_ANDROID.mp4" width="320" height="240" controls></video>
+<video src="https://github.com/kennyowj961127/RNMyMovieDemo/raw/refs/heads/main/demo/RN_ANDROID.mp4" width="320" height="240" controls></video>
 - **iOS**: [Watch Video](https://github.com/kennyowj961127/RNMyMovieDemo/blob/main/demo/RN_IOS.MP4)
-<video src="/demo/RN_IOS.MP4" width="320" height="240" controls></video>
+
+<video src="https://github.com/kennyowj961127/RNMyMovieDemo/raw/refs/heads/main/demo/RN_IOS.MP4" width="320" height="240" controls></video>
 
 ## Technologies
 
