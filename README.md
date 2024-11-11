@@ -1,5 +1,57 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Demo My Movie App
+
+<!-- Show Video Link Android and IOS under folder demo -->
+
+## Description
+
+This is a simple movie app that fetches data from the [TMDB API](https://www.themoviedb.org/documentation/api) and displays it in a list. The app has a search feature that allows users to search for movies by title.
+
+## Features
+
+- **List Movies**: Display a list of movies fetched from the TMDB API.
+
+- **Search Movies**: Search for movies by title.
+
+- **Movie Details**: View details of a movie.
+
+- **Infinite Scroll**: Load more movies as the user scrolls down the list.
+
+- **Pull to Refresh**: Refresh the list of movies by pulling down the list.
+
+- **Error Handling**: Display an error message when there is an error fetching movies.
+
+- **Loading Indicator**: Display a loading indicator when fetching movies.
+
+- **Responsive Design**: The app is designed to work on both Android and iOS devices.
+
+- **Favourite Movies**: Users can add movies to their favourites list.
+
+## Video
+
+- **Android**: [Watch Video](https://github.com/kennyowj961127/RNMyMovieDemo/blob/main/demo/RN_ANDROID.mp4)
+
+- **iOS**: [Watch Video](https://github.com/kennyowj961127/RNMyMovieDemo/blob/main/demo/RN_IOS.MP4)
+
+
+## Technologies
+
+- **React Native**: A JavaScript framework for building native mobile apps using React.
+
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+
+- **React Navigation**: A library for routing and navigation in React Native.
+
+- **Axios**: A promise-based HTTP client for the browser and Node.js.
+
+- **React Native Vector Icons**: A library that provides popular icons for React Native.
+
+- **React Native Dotenv**: A module that loads environment variables from a `.env` file into `process.env`.
+
+
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
